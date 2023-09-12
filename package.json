@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "gamma-adventure",
+  "version": "1.0.0",
+  "description": "A multiplayer dungeon running game for fun",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Richard Yang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
