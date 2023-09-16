@@ -4,7 +4,7 @@ var socket;
 var draw_machine;
 var client_room;
 
-var screen_width = 600;
+var screen_width = 800;
 var screen_height = 600;
 
 var cnv;
